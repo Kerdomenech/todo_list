@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": "1", "title": "Configurar la estructura híbrida", "completed": true },
+    { "id": "2", "title": "Aprender async/await", "completed": false }
+  ]
+}
